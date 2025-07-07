@@ -1,0 +1,46 @@
+MIT License
+
+Copyright (c) 2025 Daehyeon Kim
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the “Software”), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+※ 본 프로젝트는 다음과 같은 외부 모델 및 데이터셋을 활용하고 있으며, 각각의 라이선스를 준수해야 합니다:
+
+1. **Mixtral-8x7B-Instruct-v0.1**  
+   → Apache 2.0 License  
+   ⬥ 출처: https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1
+
+2. **VARCO-VISION-14B**  
+   → CC BY-NC 4.0 (비영리 이용만 허용)  
+   ⬥ 상업적 이용 시 별도 허가 필요  
+   ⬥ 출처: https://huggingface.co/NCSOFT/VARCO-VISION-14B
+
+3. **LlamaGuard-7B**  
+   → Meta Llama Community License  
+   ⬥ MAU 700M 이상 기업은 사전 승인 필요  
+   ⬥ 출처: https://huggingface.co/meta-llama/LlamaGuard-7b
+
+4. **데이터셋 (AI Hub, KorQuAD, KLUE 등)**  
+   → 각 데이터셋의 공개 정책 및 재배포 조건을 준수해야 하며, 일부는 상업적 활용이 제한됨
+
+---
+
+⚠️ 따라서 전체 시스템을 상업적으로 이용하거나 외부에 배포할 경우, 위 라이선스를 반드시 검토하고 필요한 허가를 별도로 받아야 합니다.
